@@ -19,8 +19,8 @@ object Form1: TForm1
     Caption = 'Label1'
   end
   object Edit1: TEdit
-    Left = 80
-    Top = 104
+    Left = 72
+    Top = 72
     Width = 121
     Height = 23
     TabOrder = 0
