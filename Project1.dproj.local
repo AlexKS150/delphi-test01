@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2025/07/29 15:51:26.554,=C:\Users\alex\OneDrive\文件\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/29 15:51:54.727,D:\09_VisualProgram\TEST01\Unit1.dfm=C:\Users\alex\OneDrive\文件\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2025/07/29 15:51:54.727,D:\09_VisualProgram\TEST01\Unit1.pas=C:\Users\alex\OneDrive\文件\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/29 15:51:56.385,D:\09_VisualProgram\TEST01\Project1.dproj=C:\Users\alex\OneDrive\文件\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
